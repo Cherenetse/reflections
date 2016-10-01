@@ -24,7 +24,8 @@ projects.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    with out git or github it will be difficult to collaberate with others . I would think of using google drive
+updating and sharing each change we want to use but still it will take a long process.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
