@@ -18,7 +18,8 @@ and push the chnges we commit . branches are a part of the project that support 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    we can recall at any time to see the previous version in case we have encountered a bug on our way to updating our
+projects.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
